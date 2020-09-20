@@ -14,3 +14,6 @@ we a have a shallow CNN model in which input shape will be (64,2584,1) optimizer
 we are taking audio from get_audio() and preprocessing it to obtain mel-spectogram then we are predicting it which is shown with the help of a plot.
 the music is taken from - https://www.youtube.com/watch?v=312Sb-2PovA
 ![alt text](https://github.com/yashtiwari1906/Music-Genre-Classification/blob/master/Images/plot_.jpeg)
+
+# Refference
+http://cs229.stanford.edu/proj2018/report/21.pdf
